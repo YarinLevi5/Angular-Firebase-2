@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-2-d211e": {
+      "hosting": {
+        "angular-firebase-2": [
+          "angular-firebase-2-d211e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-2-d211e"
+  }
+}
